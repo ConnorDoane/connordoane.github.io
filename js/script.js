@@ -54,7 +54,7 @@ var linkMenu = [
   ["/vg/ Vidya Generals",      "https://www.4chan.org/vg/"],
   ["/g/ Technology",           "https://www.4chan.org/g/"],
   ["/wg/ Wallpaper/General",   "https://www.4chan.org/wg/"],
-  ["/pol/",                    "https://www.4chan.org/pol/"]
+  ["/pol/",                    "https://www.4chan.org/pol/"],
   
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
   ["GitHub",                   "https://www.github.com/"],
