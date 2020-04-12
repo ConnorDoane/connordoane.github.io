@@ -49,12 +49,14 @@ var linkMenu = [
   ["Twitch",                   "https://www.twitch.tv/"],
   ["Twitter",                  "https://www.twitter.com/"],
   
-  [svgClover,                  "cyan",                                        "-HEAD-"], // 4chan
-  ["/v/ Vidya",                "https://www.4chan.org/v/"],
-  ["/vg/ Vidya Generals",      "https://www.4chan.org/vg/"],
-  ["/g/ Technology",           "https://www.4chan.org/g/"],
-  ["/wg/ Wallpaper/General",   "https://www.4chan.org/wg/"],
-  ["/pol/",                    "https://www.4chan.org/pol/"],
+  [svgClover,                    "cyan",                                        
+"-HEAD-"], // 4chan
+  ["/v/ Vidya",                  "https://www.4chan.org/v/"],
+  ["/vg/ Vidya Generals",        "https://www.4chan.org/vg/"],
+  ["/g/ Technology",             "https://www.4chan.org/g/"],
+  ["/wg/ Wallpaper/General",     "https://www.4chan.org/wg/"],
+  ["/pol/ Politically Incorrect",                      
+"https://www.4chan.org/pol/"],
   
   [svgCode,                    "red",                                         "-HEAD-"], // Code Stuff
   ["GitHub",                   "https://www.github.com/"],
