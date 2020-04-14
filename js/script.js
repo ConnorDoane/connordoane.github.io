@@ -53,6 +53,7 @@ var linkMenu = [
 "-HEAD-"], // 4chan
   ["/v/ Vidya",                  "https://www.4chan.org/v/"],
   ["/vg/ Vidya Generals",        "https://www.4chan.org/vg/"],
+  ["/tg/ Traditional Games",     "https://www.4chan.org/tg/"],
   ["/g/ Technology",             "https://www.4chan.org/g/"],
   ["/wg/ Wallpaper/General",     "https://www.4chan.org/wg/"],
   ["/pol/ Politically Incorrect",                      
